@@ -1,0 +1,65 @@
+/* Estilos para o corpo da página */
+body {
+    background-color: #ffffff; /* Fundo branco */
+    color: #000000; /* Texto preto */
+}
+
+/* Estilos para os links */
+a {
+    color: #007bff; /* Azul claro para links */
+}
+
+a:hover {
+    color: #0056b3; /* Azul escuro quando passar o mouse sobre os links */
+}
+
+/* Estilos para o cabeçalho */
+.navbar {
+    background-color: #007bff; /* Azul claro para o navbar */
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: #ffffff; /* Ícone do botão de navegação branco */
+}
+
+/* Estilos para os botões */
+.btn-primary {
+    background-color: #007bff; /* Botão de fundo azul claro */
+    border-color: #007bff; /* Borda do botão azul claro */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Botão de fundo azul escuro no hover */
+    border-color: #0056b3; /* Borda do botão azul escuro no hover */
+}
+
+.btn-danger {
+    background-color: #dc3545; /* Botão de fundo vermelho */
+    border-color: #dc3545; /* Borda do botão vermelho */
+}
+
+.btn-danger:hover {
+    background-color: #c82333; /* Botão de fundo vermelho escuro no hover */
+    border-color: #bd2130; /* Borda do botão vermelho escuro no hover */
+}
+
+/* Estilos para o banner */
+.jumbotron {
+    background-color: #007bff; /* Fundo do banner azul claro */
+    color: #ffffff; /* Texto branco no banner */
+}
+
+/* Estilos para os cards de produtos */
+.card {
+    border-color: #000000; /* Borda preta para os cards */
+}
+
+/* Estilos para o formulário de brinde */
+#brinde-form {
+    background-color: #ffffff; /* Fundo branco para o formulário */
+}
+
+/* Estilos para a seção de contato */
+#contato {
+    background-color: #f8f9fa; /* Fundo cinza claro para a seção de contato */
+}
